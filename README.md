@@ -10,6 +10,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
 ## String
@@ -92,4 +93,16 @@ A collection of LeetCode questions practised to ace the coding interview!
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

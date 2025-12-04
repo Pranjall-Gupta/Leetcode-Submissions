@@ -51,6 +51,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0328-odd-even-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |

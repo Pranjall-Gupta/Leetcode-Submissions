@@ -20,6 +20,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
+| [0344-reverse-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |

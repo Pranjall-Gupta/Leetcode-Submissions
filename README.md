@@ -9,6 +9,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0322-coin-change) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -168,4 +172,8 @@ A collection of LeetCode questions practised to ace the coding interview!
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->

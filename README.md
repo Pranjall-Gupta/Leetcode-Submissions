@@ -100,6 +100,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0951-flip-equivalent-binary-trees) |
 ## Divide and Conquer
 |  |
 | ------- |

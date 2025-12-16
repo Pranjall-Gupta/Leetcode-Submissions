@@ -25,6 +25,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | ------- |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0344-reverse-string) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Greedy
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0050-powx-n) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Recursion
 |  |
 | ------- |

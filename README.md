@@ -13,6 +13,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0322-coin-change) |
 ## Stack
@@ -127,6 +129,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0951-flip-equivalent-binary-trees) |
@@ -234,4 +237,9 @@ A collection of LeetCode questions practised to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

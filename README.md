@@ -6,6 +6,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0113-path-sum-ii) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0113-path-sum-ii) |
 ## Simulation
 |  |
@@ -226,4 +230,8 @@ A collection of LeetCode questions practised to ace the coding interview!
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0845-longest-mountain-in-array) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

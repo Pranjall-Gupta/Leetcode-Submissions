@@ -27,6 +27,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0344-reverse-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0322-coin-change](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
 | [0845-longest-mountain-in-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0845-longest-mountain-in-array) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0113-path-sum-ii) |

@@ -6,6 +6,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0113-path-sum-ii) |
 ## Simulation
@@ -236,6 +239,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 ## Union Find

@@ -12,6 +12,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0152-maximum-product-subarray](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0200-number-of-islands) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
+| [0152-maximum-product-subarray](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
 | [0845-longest-mountain-in-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0845-longest-mountain-in-array) |

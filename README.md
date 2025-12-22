@@ -17,6 +17,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0307-range-sum-query-mutable](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0307-range-sum-query-mutable](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -255,4 +257,16 @@ A collection of LeetCode questions practised to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->

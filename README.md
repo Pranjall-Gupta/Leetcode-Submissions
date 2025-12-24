@@ -19,6 +19,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0307-range-sum-query-mutable](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0322-coin-change) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0518-coin-change-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0704-binary-search) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Linked List
 |  |

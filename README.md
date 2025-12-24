@@ -6,6 +6,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0704-binary-search) |

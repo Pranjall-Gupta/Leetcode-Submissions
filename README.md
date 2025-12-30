@@ -20,6 +20,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0307-range-sum-query-mutable](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0322-coin-change) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0518-coin-change-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 ## Two Pointers
@@ -182,6 +184,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -264,6 +268,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Union Find
 |  |
 | ------- |

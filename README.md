@@ -22,6 +22,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0322-coin-change](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0518-coin-change-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0713-subarray-product-less-than-k) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum

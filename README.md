@@ -32,6 +32,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0912-sort-an-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
 |  |
 | ------- |

@@ -21,6 +21,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0518-coin-change-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
 | [0845-longest-mountain-in-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0845-longest-mountain-in-array) |
 ## Breadth-First Search
@@ -186,6 +189,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Math

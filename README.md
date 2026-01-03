@@ -35,6 +35,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0912-sort-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | ------- |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0912-sort-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0845-longest-mountain-in-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0845-longest-mountain-in-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
 | ------- |

@@ -34,6 +34,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
@@ -199,6 +200,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Union Find
 |  |
 | ------- |

@@ -3,9 +3,14 @@ class Solution {
         int rows=grid.length;
         int col=grid[0].length;
         int count=0;
-        for(int r=0;r<rows;r++){
-            int i=col-1;
-            while(i>=0 && grid[r][i]<0){count++;i--;}
+        //staircase
+        int r=0,c=col-1;
+        while(r<rows && c>=0){
+            if(grid[r][c]<0){
+                count+=(rows-r);
+                c--;
+            }else 
+                r++;
         }
         return count;
     }

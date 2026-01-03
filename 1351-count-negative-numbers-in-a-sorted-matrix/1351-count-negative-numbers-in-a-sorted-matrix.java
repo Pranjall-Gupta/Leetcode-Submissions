@@ -4,9 +4,8 @@ class Solution {
         int col=grid[0].length;
         int count=0;
         for(int r=0;r<rows;r++){
-            for(int c=0;c<col;c++){
-                if(grid[r][c]<0) count++;
-            }
+            int i=col-1;
+            while(i>=0 && grid[r][i]<0){count++;i--;}
         }
         return count;
     }

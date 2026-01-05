@@ -46,6 +46,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Greedy
@@ -85,6 +86,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Linked List
@@ -210,6 +212,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |

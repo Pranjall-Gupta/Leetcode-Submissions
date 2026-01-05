@@ -45,6 +45,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0912-sort-an-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |

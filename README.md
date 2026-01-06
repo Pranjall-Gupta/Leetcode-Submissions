@@ -50,6 +50,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0443-string-compression) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Greedy
@@ -80,6 +81,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0443-string-compression) |
 | [0845-longest-mountain-in-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0845-longest-mountain-in-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table

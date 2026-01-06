@@ -8,6 +8,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0242-valid-anagram) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0242-valid-anagram) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions practised to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Pranjall-Gupta/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
